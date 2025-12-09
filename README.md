@@ -33,6 +33,10 @@ I will do my best to record the live lectures, so students can review or make up
 
 Prerequisite is at least one course in basic statistics and some experience with scripting in a language like R or Python.
 
+# How to Enroll
+
+Just show up at the lecture of your choice. If you complete all the homework for either section, you can have course credit.
+
 # Lectures
 
 There will be 10 weeks of instruction. The lectures will be in person, 2nd floor lecture hall MPI-EVA. I will teach separate "beginner" and "experienced" sections. 
@@ -51,7 +55,7 @@ The experienced section is for people have had the course before but maybe lost 
 
 We'll use the 2nd edition of my book, <[Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)>, and possibly some draft chapters for the 3rd edition. I'll provide a PDF of the book to enrolled students.
 
-Registration: Members of the Leipzig MPIs, iDiv, Uni-Leipzig, and other Leipzig research institutes.
+There will be one set of homework problems each week for each section. If you make an good attempt on all 10, you can have transferrable course credit.
 
 # Calendar & Topical Outline
 
