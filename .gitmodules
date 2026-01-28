@@ -1,0 +1,3 @@
+[submodule "rethinking"]
+	path = rethinking
+	url = git@github.com:rmcelreath/rethinking.git
