@@ -33,4 +33,9 @@ Now, we also want to make sure Cursor recognizes it:
 Congrats, you're done!
 
 
+## Grabbing rethinking data
+
+One last thing, unrelated to python. We want to be able to access data in instructor's `rethinking` package. We've set it up to show up as a git submodule, but you need to run this command in terminal: `git submodule update --init --recursive`. After running it, you should see `rethinking` folder in the repository, including subfolders such as `data`.
+
+
 
